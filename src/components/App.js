@@ -2,7 +2,7 @@ import React from 'react'
 
 import NavBar from './NavBar'
 import GifListContainer from './GifListContainer.js'
-console.log("hello")
+console.log("hello world")
 const App = () => {
   return (
     <div>
